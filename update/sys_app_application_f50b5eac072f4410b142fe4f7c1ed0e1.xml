@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>App for learning purpose</description>
+        <device_type>browser</device_type>
+        <hint>App for learning purpose</hint>
+        <name/>
+        <order/>
+        <roles>user_admin,uxframework_designer,delegated_developer</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-11 11:12:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f50b5eac072f4410b142fe4f7c1ed0e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NB_APP</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NB_APP" source="x_470970_nb_app">81c91e2c072f4410b142fe4f7c1ed0c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NB_APP">81c91e2c072f4410b142fe4f7c1ed0c1</sys_scope>
+        <sys_update_name>sys_app_application_f50b5eac072f4410b142fe4f7c1ed0e1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-11 11:12:30</sys_updated_on>
+        <title>NB_APP</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
